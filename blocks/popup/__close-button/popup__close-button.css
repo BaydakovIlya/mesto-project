@@ -2,6 +2,9 @@
     width: 32px;
     height: 32px;
     background-color: rgba(0, 0, 0, 0);
+    background-image: url('../../../images/Closed.svg');
+    background-repeat: no-repeat;
+    background-position: center;
     position: absolute;
     top: -42px;
     right: -32px;
@@ -16,5 +19,6 @@
       height: 20px;
       right: 0;
       top: -26px;
+      background-image: url('../../../images/Krestik.svg');
     }
   }
